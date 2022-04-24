@@ -1,0 +1,26 @@
+
+*{
+    font-family: 'Museo Sans Cyrl', sans-serif;  
+
+}
+@import 'variables';
+
+.container {
+    position: relative;
+    width: 950px;
+    margin: 0 auto;
+}@import 'animation';
+@import 'promo';
+@import 'header';
+@import 'button';
+@import 'advantages';
+@import 'titles';
+@import 'consultation';
+@import 'forms';
+@import 'carousel';
+@import 'catalog';
+@import 'media';
+@import 'feed';
+@import 'footer';
+@import 'modal';
+@import 'pageup'
